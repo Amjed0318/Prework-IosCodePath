@@ -39,6 +39,9 @@ The following **required** functionality is completed: yes
 - Being able to search up words and finding old messages.
 - Being able to send effects with messages such as fireworks with a July 4th text
 
+ App that I would like to build) 
+One app that I would like to build would be an app that would track your monthly income and minus your expenses and help you budget with the rest of your money based on your desires and what you wish to accomplish. For instance, if you are bringing in $4000 a month and your expenses come out to $2000 a month, this app would help you budget the rest of that money wether it be spending on what you want, saving, or even investing. 
+
 Describe any challenges encountered while building the app.
 
 -Some of the instructions were unclear while I was building this app but it did not seem too dificult to overcome. 
